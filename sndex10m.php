@@ -1,15 +1,9 @@
-<!DOCTYPE html>
-<html>
-<head>
-    <title>PHP OOP + Superglobals</title>
-</head>
-<body>
+<?php
 
-<form method="POST" action="process.php">
-    Ism: <input type="text" name="name"><br><br>
-    Yosh: <input type="number" name="age"><br><br>
-    <button type="submit">Yuborish</button>
-</form>
+function acd(){
+$e=$x**3;
+echo $e; 
+}
 
-</body>
-</html>
+
+?>
